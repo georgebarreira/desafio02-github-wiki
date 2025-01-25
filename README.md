@@ -1,8 +1,13 @@
-# React + Vite
+# Aplicação Github Wiki
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação de consumo da API REST do GitHub desenvolvida utilizando React e Vite para o curso React Developer da Dio.
 
-Currently, two official plugins are available:
+## Proposição do projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Consumir api do github para proporcionar um mecanismo de busca de repositórios (user/repo) listando-os dinamicamente.
+
+## Link do projeto online
+
+<div style="text-align:center;">
+<a href="https://georgebarreira.github.io/desafio02-github-wiki/"><img src="./src/assets/GithubWiki.PNG" alt="imagem do projeto"  /> </a>
+</div>
